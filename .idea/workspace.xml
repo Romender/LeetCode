@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c98d6f8c-29bd-416f-9e7b-b138ca38e5b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle136_Single_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/main/java/medium/Puzzle287_Find_the_Duplicate_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle136_Single_NumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/test/java/medium/Puzzle287_Find_the_Duplicate_NumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/main/java/easy/P509_FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle643_Maximum_Average_Subarray_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/main/java/medium/P144_BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/main/java/medium/P94_BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/main/java/medium/Puzzle137_Single_Number_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/main/java/medium/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/test/java/easy/P509_FibonacciNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle643_Maximum_Average_Subarray_ITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/test/java/medium/P144_BinaryTreePreorderTraversalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle136_Single_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle136_Single_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/easy/Puzzle13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/easy/Puzzle657.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/easy/Puzzle709.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/easy/Puzzle771.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/easy/Puzzle804.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/easy/Puzzle832.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/easy/Puzzle929.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/easy/Puzzle977.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/LeetCode/medium/Puzzle907.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Algorithms/.gradle/" />
     <ignored path="$PROJECT_DIR$/Algorithms/build/" />
@@ -40,7 +55,7 @@
     <session id="1385988636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -50,14 +65,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="38" />
+          <entry key="JAVA" value="50" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="12628" />
+          <entry key="JAVA" value="15136" />
         </counts>
       </usages-collector>
     </session>
@@ -65,28 +80,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle905_Sort_Array_By_Parity.java">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/Puzzle137_Single_Number_II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="45" column="17" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="45" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle268_Missing_Number.java">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle643_Maximum_Average_Subarray_I.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/hard/Puzzle41_First_Missing_Positive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="16" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="38" selection-end-column="16" />
+            <state relative-caret-position="486">
+              <caret line="61" column="48" lean-forward="true" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,67 +105,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/Puzzle287_Find_the_Duplicate_Number.java">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/P144_BinaryTreePreorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="578">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/P94_BinaryTreeInorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle136_Single_Number.java">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/P509_FibonacciNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle136_Single_NumberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/medium/Puzzle287_Find_the_Duplicate_NumberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/hard/Puzzle41_First_Missing_PositiveTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle268_Missing_NumberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="735">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="49" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -165,6 +139,55 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/easy/P509_FibonacciNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/medium/P144_BinaryTreePreorderTraversalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle643_Maximum_Average_Subarray_ITest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -508,6 +531,15 @@
         <option value="$PROJECT_DIR$/Algorithms/src/test/java/medium/Puzzle287_Find_the_Duplicate_NumberTest.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle136_Single_NumberTest.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle136_Single_Number.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/main/java/medium/Puzzle137_Single_Number_II.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle643_Maximum_Average_Subarray_ITest.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle643_Maximum_Average_Subarray_I.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/main/java/medium/TreeNode.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/test/java/medium/P144_BinaryTreePreorderTraversalTest.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/main/java/medium/P144_BinaryTreePreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/main/java/medium/P94_BinaryTreeInorderTraversal.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/test/java/easy/P509_FibonacciNumberTest.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/main/java/easy/P509_FibonacciNumber.java" />
       </list>
     </option>
   </component>
@@ -518,9 +550,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
+    <option name="width" value="960" />
     <option name="height" value="1177" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -578,6 +611,15 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -595,16 +637,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -613,7 +646,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551073321599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551546538624" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -647,22 +680,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Puzzle136_Single_NumberTest">
-    <configuration name="Puzzle136_Single_NumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algo_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="easy" />
-      <option name="MAIN_CLASS_NAME" value="easy.Puzzle136_Single_NumberTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Puzzle287_Find_the_Duplicate_NumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.P509_FibonacciNumberTest">
+    <configuration name="P144_BinaryTreePreorderTraversalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo_test" />
       <extension name="coverage">
         <pattern>
@@ -671,71 +690,88 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="medium" />
-      <option name="MAIN_CLASS_NAME" value="medium.Puzzle287_Find_the_Duplicate_NumberTest" />
+      <option name="MAIN_CLASS_NAME" value="medium.P144_BinaryTreePreorderTraversalTest" />
+      <option name="METHOD_NAME" value="baseTestCase1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle41_First_Missing_PositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P144_BinaryTreePreorderTraversalTest.baseTestCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hard.*" />
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hard" />
-      <option name="MAIN_CLASS_NAME" value="hard.Puzzle41_First_Missing_PositiveTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Puzzle41_First_Missing_PositiveTest.baseTestCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algo_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hard" />
-      <option name="MAIN_CLASS_NAME" value="hard.Puzzle41_First_Missing_PositiveTest" />
+      <option name="PACKAGE_NAME" value="medium" />
+      <option name="MAIN_CLASS_NAME" value="medium.P144_BinaryTreePreorderTraversalTest" />
       <option name="METHOD_NAME" value="baseTestCase1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzle41_First_Missing_PositiveTest.baseTestCase6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P509_FibonacciNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hard.*" />
+          <option name="PATTERN" value="easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hard" />
-      <option name="MAIN_CLASS_NAME" value="hard.Puzzle41_First_Missing_PositiveTest" />
-      <option name="METHOD_NAME" value="baseTestCase6" />
+      <option name="PACKAGE_NAME" value="easy" />
+      <option name="MAIN_CLASS_NAME" value="easy.P509_FibonacciNumberTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P509_FibonacciNumberTest.baseTestCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy" />
+      <option name="MAIN_CLASS_NAME" value="easy.P509_FibonacciNumberTest" />
+      <option name="METHOD_NAME" value="baseTestCase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P509_FibonacciNumberTest.baseTestCase2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy" />
+      <option name="MAIN_CLASS_NAME" value="easy.P509_FibonacciNumberTest" />
+      <option name="METHOD_NAME" value="baseTestCase2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Puzzle41_First_Missing_PositiveTest" />
-      <item itemvalue="JUnit.Puzzle41_First_Missing_PositiveTest.baseTestCase1" />
-      <item itemvalue="JUnit.Puzzle41_First_Missing_PositiveTest.baseTestCase6" />
-      <item itemvalue="JUnit.Puzzle287_Find_the_Duplicate_NumberTest" />
-      <item itemvalue="JUnit.Puzzle136_Single_NumberTest" />
+      <item itemvalue="JUnit.P144_BinaryTreePreorderTraversalTest.baseTestCase1" />
+      <item itemvalue="JUnit.P144_BinaryTreePreorderTraversalTest" />
+      <item itemvalue="JUnit.P509_FibonacciNumberTest.baseTestCase1" />
+      <item itemvalue="JUnit.P509_FibonacciNumberTest.baseTestCase2" />
+      <item itemvalue="JUnit.P509_FibonacciNumberTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Puzzle136_Single_NumberTest" />
-        <item itemvalue="JUnit.Puzzle287_Find_the_Duplicate_NumberTest" />
-        <item itemvalue="JUnit.Puzzle41_First_Missing_PositiveTest" />
-        <item itemvalue="JUnit.Puzzle41_First_Missing_PositiveTest.baseTestCase6" />
-        <item itemvalue="JUnit.Puzzle41_First_Missing_PositiveTest.baseTestCase1" />
+        <item itemvalue="JUnit.P509_FibonacciNumberTest" />
+        <item itemvalue="JUnit.P509_FibonacciNumberTest.baseTestCase1" />
+        <item itemvalue="JUnit.P509_FibonacciNumberTest.baseTestCase2" />
+        <item itemvalue="JUnit.P144_BinaryTreePreorderTraversalTest.baseTestCase1" />
+        <item itemvalue="JUnit.P144_BinaryTreePreorderTraversalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -753,35 +789,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Puzzle41_First_Missing_PositiveTest_baseTestCase1 - 2019.02.24 at 18h 43m 01s.xml">
-      <configuration name="Puzzle41_First_Missing_PositiveTest.baseTestCase1" configurationId="JUnit" />
+    <history-entry file="P144_BinaryTreePreorderTraversalTest_baseTestCase1 - 2019.02.28 at 15h 53m 44s.xml">
+      <configuration name="P144_BinaryTreePreorderTraversalTest.baseTestCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle41_First_Missing_PositiveTest - 2019.02.24 at 18h 43m 05s.xml">
-      <configuration name="Puzzle41_First_Missing_PositiveTest" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest_baseTestCase1 - 2019.03.02 at 08h 55m 30s.xml">
+      <configuration name="P509_FibonacciNumberTest.baseTestCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle41_First_Missing_PositiveTest - 2019.02.24 at 18h 44m 20s.xml">
-      <configuration name="Puzzle41_First_Missing_PositiveTest" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest_baseTestCase2 - 2019.03.02 at 08h 55m 55s.xml">
+      <configuration name="P509_FibonacciNumberTest.baseTestCase2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle41_First_Missing_PositiveTest_baseTestCase6 - 2019.02.24 at 18h 45m 11s.xml">
-      <configuration name="Puzzle41_First_Missing_PositiveTest.baseTestCase6" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest_baseTestCase2 - 2019.03.02 at 08h 56m 49s.xml">
+      <configuration name="P509_FibonacciNumberTest.baseTestCase2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle41_First_Missing_PositiveTest - 2019.02.24 at 18h 45m 21s.xml">
-      <configuration name="Puzzle41_First_Missing_PositiveTest" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest_baseTestCase2 - 2019.03.02 at 08h 57m 30s.xml">
+      <configuration name="P509_FibonacciNumberTest.baseTestCase2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle41_First_Missing_PositiveTest - 2019.02.24 at 21h 04m 48s.xml">
-      <configuration name="Puzzle41_First_Missing_PositiveTest" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest_baseTestCase2 - 2019.03.02 at 08h 57m 46s.xml">
+      <configuration name="P509_FibonacciNumberTest.baseTestCase2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle41_First_Missing_PositiveTest - 2019.02.24 at 21h 05m 05s.xml">
-      <configuration name="Puzzle41_First_Missing_PositiveTest" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest - 2019.03.02 at 08h 59m 01s.xml">
+      <configuration name="P509_FibonacciNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle287_Find_the_Duplicate_NumberTest - 2019.02.24 at 21h 20m 32s.xml">
-      <configuration name="Puzzle287_Find_the_Duplicate_NumberTest" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest - 2019.03.02 at 09h 00m 35s.xml">
+      <configuration name="P509_FibonacciNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle287_Find_the_Duplicate_NumberTest - 2019.02.24 at 21h 21m 20s.xml">
-      <configuration name="Puzzle287_Find_the_Duplicate_NumberTest" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest_baseTestCase1 - 2019.03.02 at 09h 01m 07s.xml">
+      <configuration name="P509_FibonacciNumberTest.baseTestCase1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Puzzle136_Single_NumberTest - 2019.02.24 at 21h 39m 59s.xml">
-      <configuration name="Puzzle136_Single_NumberTest" configurationId="JUnit" />
+    <history-entry file="P509_FibonacciNumberTest - 2019.03.02 at 09h 02m 51s.xml">
+      <configuration name="P509_FibonacciNumberTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -798,7 +834,7 @@
       <window_info anchor="bottom" id="Build" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49893504" visible="true" weight="0.32925683" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893504" weight="0.32925683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39981186" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -837,6 +873,30 @@
           <line>39</line>
           <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle643_Maximum_Average_Subarray_I.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle643_Maximum_Average_Subarray_I.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithms/src/main/java/medium/P144_BinaryTreePreorderTraversal.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithms/src/main/java/easy/P509_FibonacciNumber.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -896,13 +956,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle709.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle657.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -949,13 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle852.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="69" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -1054,20 +1100,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle268_Missing_Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/hard/Puzzle41_First_Missing_PositiveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1081,7 +1113,7 @@
     <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/hard/Puzzle41_First_Missing_Positive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="38" column="16" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="38" selection-end-column="16" />
+          <caret line="38" column="16" selection-start-line="32" selection-start-column="7" selection-end-line="38" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1101,24 +1133,138 @@
     <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/Puzzle287_Find_the_Duplicate_Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="29" selection-end-column="17" />
+          <caret line="29" column="17" selection-start-line="23" selection-start-column="8" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle136_Single_NumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle709.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle852.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="46" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle268_Missing_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle136_Single_Number.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/Puzzle137_Single_Number_II.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/easy/Puzzle643_Maximum_Average_Subarray_ITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/Puzzle643_Maximum_Average_Subarray_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="61" column="48" lean-forward="true" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/medium/P144_BinaryTreePreorderTraversalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/P94_BinaryTreeInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/medium/P144_BinaryTreePreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/test/java/easy/P509_FibonacciNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/main/java/easy/P509_FibonacciNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>

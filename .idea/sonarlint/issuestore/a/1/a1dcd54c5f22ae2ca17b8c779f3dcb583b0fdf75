@@ -1,0 +1,7 @@
+
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Œ÷úÿÿÿÿ8‘ƒĞè‘-
+[squid:S1197!"8Move the array designator from the variable to the type.(áù©óøÿÿÿÿ8ÙÖ¹ê‘-
+Usquid:S1197 "8Move the array designator from the variable to the type.(”†úc8ÚúŞè‘-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²äÃıÿÿÿÿ
+=squid:S1659""Declare "k" on a separate line.(ÙÏÉÄ8•Ïé‘-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8îÊê‘-

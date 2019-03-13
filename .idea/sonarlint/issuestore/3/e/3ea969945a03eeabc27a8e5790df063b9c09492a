@@ -1,5 +1,0 @@
-
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ÌøŒùÿÿÿÿ
-Osquid:S1481"1Remove this unused "intersection" local variable.(Òµ¸¿8«ìƒ¾-
-Dsquid:S1172"&Remove these unused method parameters.(½§ÁÆ8«ìƒ¾-
-^squid:S1854"@Remove this useless assignment to local variable "intersection".(Òµ¸¿8«ìƒ¾-
